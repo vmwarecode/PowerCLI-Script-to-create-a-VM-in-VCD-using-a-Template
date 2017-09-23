@@ -1,0 +1,1 @@
+# PowerCLI-Script-to-create-a-VM-in-VCD-using-a-Template
